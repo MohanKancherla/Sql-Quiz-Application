@@ -1,6 +1,7 @@
 # Sql-Quiz-Application
 
 This app consists of three activity screens
+
 a.	Starting Screen Activity
 b.	Question Screen Activity
 c.	Final Activity Screen
